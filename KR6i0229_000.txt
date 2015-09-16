@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說嗟曩法天子受三歸依獲免惡道經
+#+DATE: 2015-08-30 20:13:27.993105
+#+PROPERTY: JUAN 0
